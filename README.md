@@ -3,7 +3,8 @@
 Identification of the NIK KTP pattern using Golang will produce the output of sub-district, city, province, gender and date of birth.
 
 ## USAGE
-```Termux
+```
+ Termux
  pkg update && pkg upgrade
  pkg install golang
  pkg install git 
@@ -13,7 +14,7 @@ Identification of the NIK KTP pattern using Golang will produce the output of su
  chmod +x *
  ./ktp-checker
  
-   Linux
+ Linux
  sudo apt update && apt upgrade
  apt install golang
  apt install git 
